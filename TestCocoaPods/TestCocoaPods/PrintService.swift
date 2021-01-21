@@ -12,6 +12,6 @@ public class PrintService {
     private init() { }
     
     public static func printStatement() -> String {
-            return "fifth commit on develop with a tag"
+            return "Sixth commit on develop"
     }
 }
