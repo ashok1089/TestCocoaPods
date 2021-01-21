@@ -12,6 +12,6 @@ public class PrintService {
     private init() { }
     
     public static func printStatement() -> String {
-            return "returning print statement from initial version"
+            return "returning print statement from the second commit"
     }
 }
