@@ -12,6 +12,6 @@ public class PrintService {
     private init() { }
     
     public static func printStatement() -> String {
-            return "Sixth commit on develop"
+            return "tagging this commit with 1.0.0-beta1"
     }
 }
